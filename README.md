@@ -2,14 +2,11 @@
 
 A **stylish and fully responsive login form** built using **HTML**, **CSS**, and **JavaScript**. This form provides a seamless and modern user experience, ideal for personal websites, web applications, or practicing front-end development. It's the perfect starting point for your next project!
 
----
 
-### 🚀 Live Demo
+## 🚀 Live Demo
 
 🔗 Try it Live :- https://innovativesumit.github.io/LOGIN-FORM-HTML-CSS-JS/ 
 
-
----
 
 ## 🧩 Key Features
 
@@ -31,12 +28,14 @@ A **stylish and fully responsive login form** built using **HTML**, **CSS**, and
 - Error messages highlight invalid entries (like incorrect email format or weak passwords).
 - Prevents form submission until all fields are properly filled.
 
----
-
 ## 🎯 What Makes It Special?
 
 - **Responsive & Mobile-Friendly**: Looks great on any device, from phones to large desktop screens.
 - **Beginner-Friendly Code**: Clear, well-commented code, perfect for learning and customization.
 - **Easy to Customize**: Modify the form to suit your needs, whether it's for a personal project or client use.
 - **No External Libraries**: Built purely with HTML, CSS, and vanilla JavaScript — no dependencies!
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
