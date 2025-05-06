@@ -7,7 +7,7 @@ A **stylish and fully responsive login form** built using **HTML**, **CSS**, and
 ## 🚀 Live Demo
 
 🔗 Try it Live :- https://innovativesumit.github.io/LOGIN-FORM-HTML-CSS-JS/ 
-*(Replace with your actual GitHub Pages link)*
+
 
 ---
 
@@ -40,12 +40,3 @@ A **stylish and fully responsive login form** built using **HTML**, **CSS**, and
 - **Easy to Customize**: Modify the form to suit your needs, whether it's for a personal project or client use.
 - **No External Libraries**: Built purely with HTML, CSS, and vanilla JavaScript — no dependencies!
 
----
-
-## 📂 Getting Started
-
-To run the login form locally:
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/responsive-login-form.git
