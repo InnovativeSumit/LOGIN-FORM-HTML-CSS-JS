@@ -4,7 +4,7 @@ A **stylish and fully responsive login form** built using **HTML**, **CSS**, and
 
 ## 📸 Screenshots
 
-Here's a preview of the sidebar:
+Here's a preview of the login page:
 
 <table>
   <tr>
