@@ -2,6 +2,15 @@
 
 A **stylish and fully responsive login form** built using **HTML**, **CSS**, and **JavaScript**. This form provides a seamless and modern user experience, ideal for personal websites, web applications, or practicing front-end development. It's the perfect starting point for your next project!
 
+## 📸 Screenshots
+
+Here's a preview of the sidebar:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c102a05d-6668-4c92-a786-d0c34fdc1c56" alt="Sidebar Screenshot 2" width="450" height="550" /></td>
+  </tr>
+</table>
 
 ## 🚀 Live Demo
 
